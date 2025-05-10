@@ -22,3 +22,9 @@ This is a Python script that calculates an employee's salary based on their hour
    ```bash
    git clone https://github.com/daniiiiel00/salary tax bonus calculetor.git
 
+### Notes:
+  `https://github.com/daniiiiel00/salary tax bonus calculetor.git` .
+ 
+
+This README provides all the essential information for anyone to understand, use, and contribute to the project.
+
