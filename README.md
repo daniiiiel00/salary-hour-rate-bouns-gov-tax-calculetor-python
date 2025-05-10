@@ -1,39 +1,34 @@
 # salary-hour-rate-bouns-gov-tax-calculetor-python
-Employee Salary Calculator
+#Employee Salary Calculator
 This is a simple Python script to calculate the salary of an employee based on their hourly rate, hours worked, and bonus. The program takes into account overtime pay, federal tax deductions, and displays a detailed summary of the employee's pay including gross salary, tax, bonus, and net pay.
 
-Features:
+#Features:
 Calculates gross salary based on regular hours (up to 40) and overtime hours (above 40 hours).
 
 Applies a federal tax rate based on the gross salary: 15% for salaries less than 5000 ETB, and 25% for salaries above 5000 ETB.
 
-Includes bonus in the net pay calculation.
+#Includes bonus in the net pay calculation.
 
-Displays detailed salary breakdown (gross salary, tax, bonus, net pay).
+#Displays detailed salary breakdown (gross salary, tax, bonus, net pay).
 
-Requirements:
+#Requirements:
 Python 3.x
 
-Installation:
+#Installation:
 Clone the repository or download the Python file:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/salary-calculator.git
+
+*git clone https://github.com/yourusername/salary-calculator.git
 Navigate to the directory containing the Python file:
 
-bash
-Copy
-Edit
+
 cd salary-calculator
 Run the Python script:
 
-bash
-Copy
-Edit
+
 python salary_calculator.py
-How It Works:
+
+#How It Works:
 The program prompts the user for:
 
 Employee's name
@@ -87,5 +82,5 @@ Net Pay: ETB7125.00
 Contributing:
 Feel free to fork this project, submit issues, or make pull requests for improvements.
 
-License:
-This project is open-source and available under the MIT License.
+#License:
+This project is open-source and available .
